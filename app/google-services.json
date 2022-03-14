@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495369613589",
+    "project_id": "connectfree-58f3b",
+    "storage_bucket": "connectfree-58f3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495369613589:android:bb815be9d95ca893dbf91c",
+        "android_client_info": {
+          "package_name": "comgokul.example.connectfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495369613589-mhmaupm0bpklqivn0snnaetpq3bihcu8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYZJ5S23Nrn9QSAvYbLxmRiY1b78EbbOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495369613589-mhmaupm0bpklqivn0snnaetpq3bihcu8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
